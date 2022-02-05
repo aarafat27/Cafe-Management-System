@@ -1,1 +1,2 @@
 # cafe-management
+To run the project, you will need to download Microsoft Visual Studio(recommended) on your PC. First download and then run Microsoft Visual Studio. For C# programs to run, you need to install the .NET desktop development component within the visual studio. Download the zip file and unzip the .zip file using any zip programs such as Winrar or 7Zip. After extracting, open your folder or project using Microsoft Visual studio.
